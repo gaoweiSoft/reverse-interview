@@ -7,14 +7,14 @@ J'ai aussi remarqué le peu de questions posées par les personnes que j'ai inte
 
 ## Utilisation prévue
    
-- Cochez les questions qui vous intéressent plus particulièrement
-- Cochez les réponses que vous pouvez trouver en ligne
-- Sinon, demandez
+- Notez les questions qui vous intéressent plus particulièrement
+- Retirez celles pour lesquelles les réponses existent en ligne
+- Posez les questions
 
-N'essayez pas de tout demander sur la liste.
+N'essayez pas de poser toutes les questions de la liste. Respectez le temps de votre intervieweur·se et faites preuve d'initiative en cherchant des réponses par vous même si elles existent déjà en ligne.
 
 Rappelez-vous que les choses ont tendance à être fluides, les réorganisations se produisent souvent.
-Avoir un système de suivi des bogues ne rend pas la gestion des bogues efficace et de l'intégration continue ne signifie pas que votre temps de livraison est nécessairement court. 
+Avoir un système de suivi des bogues ne rend pas la gestion des bogues efficace et l'intégration continue ne signifie pas que votre temps de livraison est nécessairement court. 
 
 # Le rôle
 
@@ -26,15 +26,15 @@ Avoir un système de suivi des bogues ne rend pas la gestion des bogues efficace
 
 # Tech
 
-- Quelles est la stack utilisée dans l'entreprise ?
+- Quelle est la stack utilisée dans l'entreprise ?
 - Quelle est votre plateforme de gestion de versions ?
 - Comment testez-vous le code ?
 - Comment suivez-vous les bogues ?
 - Comment déployez-vous les changements ? Est-ce avec de l'intégration continue ?
-- Comment est gérer votre infrastructure ?
+- Comment est gérée votre infrastructure ?
 - Quel est le workflow de travail pour une tâche du début à la fin ?
 - Comment vous préparez-vous à la reprise après un désastre ?
-- Existe-t-il un environnement de développement standardisé ? Est-elle appliquée ?
+- Existe-t-il un environnement de développement standardisé ? Est-il réellement utilisé ?
 - En combien de temps pouvez-vous configurer un nouvel environnement de test local pour le produit ? (minutes / heures / jours)
 - En combien de temps pouvez-vous répondre aux problèmes de sécurité dans le code ou les dépendances ?
 - Est-ce que tous les développeurs ont le droit d'avoir un accès local à l'administration de leurs ordinateurs ?
@@ -45,7 +45,7 @@ Avoir un système de suivi des bogues ne rend pas la gestion des bogues efficace
 - Comment fonctionne généralement la communication intra/inter-équipe ?
 - Comment les divergences d'opinions sont-elles résolues ?
 - Qui établit les priorités et le calendrier ?
-- Que se passe-t-il après un repoussement de la tâche ? ("ceci ne peut pas être fait dans le temps projeté")
+- Que se passe-t-il après un retardement de la tâche ? ("ceci ne peut pas être fait dans le temps projeté")
 - Quel genre de réunions ont lieu chaque semaine ?
 - Quel est le calendrier des produits/services ? (rejets toutes les n semaines / déploiement continu / flux de rejets multiples / …)
 - Que se passe-t-il après un incident de production ? Existe-t-il une culture d'analyse ?
